@@ -865,7 +865,7 @@ export const PINS = [
     ar: { hint: "Scan around and confirm.", bearing: 0, tol: 180 },
   },
  {
-    id: 106,
+    id: 104,
     n: "hi shabs u should of walked for this",
     l: [54.103530,-3.230085],
     i: "🔥",
@@ -873,7 +873,7 @@ export const PINS = [
     ar: { hint: "Scan around and confirm.", bearing: 0, tol: 180 },
   },
  {
-    id: 107,
+    id: 105,
     n: "hi kids tell mam to play khyls app",
     l: [54.110492,-3.211479],
     i: "🏏",
@@ -881,4 +881,5 @@ export const PINS = [
     ar: { hint: "Scan around and confirm.", bearing: 0, tol: 180 },
   },
 ];
+
 
