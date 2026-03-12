@@ -864,4 +864,21 @@ export const PINS = [
     zone: "Residential",
     ar: { hint: "Scan around and confirm.", bearing: 0, tol: 180 },
   },
+ {
+    id: 106,
+    n: "hi shabs u should of walked for this",
+    l: [54.103530,-3.230085],
+    i: "🔥",
+    zone: "Residential",
+    ar: { hint: "Scan around and confirm.", bearing: 0, tol: 180 },
+  },
+ {
+    id: 107,
+    n: "hi kids tell mam to play khyls app",
+    l: [54.110492,-3.211479],
+    i: "🏏",
+    zone: "Civic",
+    ar: { hint: "Scan around and confirm.", bearing: 0, tol: 180 },
+  },
 ];
+
